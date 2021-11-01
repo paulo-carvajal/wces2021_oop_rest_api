@@ -1,0 +1,13 @@
+{
+  "name": "pac/wpes",
+  "description": "Charla «WCES 2021: OOP REST API»",
+  "require": {
+    "php": ">=7.4",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "paulo\\api\\": "./"
+    }
+  }
+}
